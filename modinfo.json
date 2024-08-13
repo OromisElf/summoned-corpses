@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "summonedCorpses",
+    "name": "Summoned Corpses",
+    "authors": [ "OromisElf" ],
+    "description": "Lets summoned animals leave behind corpses.",
+    "category": "magical",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]
